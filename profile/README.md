@@ -15,3 +15,33 @@
         Our goal is to create a community-driven project that meets the needs of all those interested in astronomy and astrophysics. Whether you're an amateur astronomer, a researcher, a gaming group who develops a Sci-fi astronomical game or also a space company that wants to calculate the fastest and cheapest way to reach mars, we want to hear from you. Your input will help us improve the library and make it even more useful to everyone.
     </p>
 </div>
+
+# QSSL Releases
+### QSSL-Nova
+Nova of QSSL, Beginning of Illumination to the Computer Age Where Digital and Celestial Realms Converge  
+QSSL-Nova is the First Release of QSS Library that Contains these Contents :
+1. Celestial Objects
+2. Astronomical Conversions
+3. Large Numbers Operations
+4. Celestial Trigonometry
+5. Coordinate Systems
+<!-- 
+### QSSL-Orbit
+Soon ...
+### QSSL-Eclipse
+Soon ...
+### QSSL-Galactic
+### QSSL-Planetarium
+### QSSL-Exo
+Outer Celestial Objects Like Exoplanets, Soon ...
+### QSSL-Eclipse
+
+### QSSL-Cosmos
+Cosmology and Dynamics, Soon ...
+### QSSL-42
+Ultimate Question ???
+### QSSL-Eye
+Telescope and Observations, Soon ...
+Orbit eclipse nebula meteor solar luna galactic cosmos aurora planetarium telescope spacewalk interstellar exoplanet gravity
+
+-->
